@@ -41,7 +41,7 @@ RESULT
 {
   "status": true,
   "data": {
-    "nokartu": "0000010863167",
+    "nokartu": "0000010863123",
     "nik": "12082331109234",
     "nama": "NAMA",
     "jenis_kelamin": "Laki-Laki",
